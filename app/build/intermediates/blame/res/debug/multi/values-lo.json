@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\Csok\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 190,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Users\\SAWE PETER\\.android\\build-cache\\483adf90f41de313ecdc520001e7c4681f4af460\\output\\res\\values-lo\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 190,
+                        "endOffset": 473
+                    }
+                }
+            }
+        ]
+    }
+]
